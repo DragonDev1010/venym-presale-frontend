@@ -5,8 +5,8 @@ function Banner() {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12 col-sm-12 order-lg-first">
                         <div className="banner_text text_md_center">
-                            <h1 className="animation" data-animation="fadeInUp" data-animation-delay="1.1s">Bitcoin is an innovative payment network and a new kind of money.</h1>
-                            <p className="animation" data-animation="fadeInUp" data-animation-delay="1.2s">Bitcoin is peer-to-peer electronic money that features low fees and fast transaction times.</p>
+                            <h1 className="animation" data-animation="fadeInUp" data-animation-delay="1.1s"> The First Major Blockchain Conglomerate!</h1>
+                            <p className="animation" data-animation="fadeInUp" data-animation-delay="1.2s"> Venym is the first decentralized currency that promotes equitable ownership of real-world companies!</p>
                             <div className="btn_group animation" data-animation="fadeInUp" data-animation-delay="1.3s"> 
                                 <a href="#whitepaper" className="btn btn-default nav-link content-popup">Whitepaper <i className="ion-ios-arrow-thin-right"></i></a> 
                                 <a href="#" className="btn btn-border">Buy Token Now! <i className="ion-ios-arrow-thin-right"></i></a> 
