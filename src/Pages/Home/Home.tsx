@@ -15,9 +15,9 @@ function Home() {
             <TokenSale/>
             <ProceedDistribution/>
             <Timeline/>
-            <MobileApp/>
+            {/* <MobileApp/> */}
             <Team/>
-            <FAQ/>
+            {/* <FAQ/> */}
         </>
     )
 }

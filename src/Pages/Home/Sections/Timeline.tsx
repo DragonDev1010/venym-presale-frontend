@@ -18,43 +18,43 @@ function Timeline() {
                 <div className="col-lg">
                     <div className="single_roadmap roadmap_done">
                         <div className="roadmap_icon"></div>
-                        <h6 className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">April 2018</h6>
-                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Inotial Coin Distribution & maketing </p>
+                        <h6 className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">February 2022</h6>
+                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Initial Marketing and Presale</p>
                     </div>
                 </div>
                 <div className="col-lg">
                     <div className="single_roadmap roadmap_done">
                         <div className="roadmap_icon"></div>
-                        <h6 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">February 2018</h6>
-                        <p className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">Exchange Bitcontent to Bitcoin</p>
+                        <h6 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">March 2022</h6>
+                        <p className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">Deployment of Venym App</p>
                     </div>
                 </div>
                 <div className="col-lg">
                     <div className="single_roadmap">
                         <div className="roadmap_icon"></div>
-                        <h6 className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">March 2018</h6>
-                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">BTCC mode of payment in Bitconcent</p>
+                        <h6 className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">April 2022</h6>
+                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Launch Merchandise Store</p>
                     </div>
                 </div>
                 <div className="col-lg">
                     <div className="single_roadmap">
                         <div className="roadmap_icon"></div>
-                        <h6 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">June 2018</h6>
-                        <p className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">Send-Receive coin Bitconcent & mobile</p>
+                        <h6 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">June 2022 </h6>
+                        <p className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">“Blockchain Game Launch</p>
                     </div>
                 </div>
                 <div className="col-lg">
                     <div className="single_roadmap">
                         <div className="roadmap_icon"></div>
-                        <h6 className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">October 2018</h6>
-                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Coin Marketcap, World Coin Index</p>
+                        <h6 className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">August 2022 </h6>
+                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Venym Summit for DAO token holders in Las Vegas, NV</p>
                     </div>
                 </div>
                 <div className="col-lg">
                     <div className="single_roadmap">
                         <div className="roadmap_icon"></div>
-                        <h6 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">December 2018</h6>
-                        <p className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">Online & Trading ICO Token Sale</p>
+                        <h6 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">September 2022</h6>
+                        <p className="animation" data-animation="fadeInDown" data-animation-delay="0.2s">First Crops Harvested and Sold, Dividends Paid to DAO and Token Holders</p>
                     </div>
                 </div>
             </div>
